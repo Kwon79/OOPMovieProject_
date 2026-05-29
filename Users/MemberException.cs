@@ -7,7 +7,7 @@
         {
         }
     }
-
+     
     public class InsufficientPointException : Exception
     {
         public int RequiredPoint { get; }

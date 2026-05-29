@@ -67,7 +67,7 @@
             return total;
         }
 
-        public void Refund(int index)
+        public void Refund(int index) 
         {
             try
             {

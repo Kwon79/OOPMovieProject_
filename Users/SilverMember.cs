@@ -17,4 +17,4 @@
             return $"[실버회원] {Name} | ID: {MemberId} | 포인트: {Point}점 | 할인율: 5%";
         }
     }
-}
+} 

@@ -14,7 +14,7 @@
             members.Sort((a, b) => a.Name.CompareTo(b.Name));
             foreach (var member in members)
                 Console.WriteLine(member.GetInfo());
-        }
+        } 
 
         // 포인트 사용
         public void UsePoint(int amount)

@@ -69,4 +69,4 @@
             Console.WriteLine($"결제수단: 계좌이체 | {bankName} {accountNumber}");
         }
     }
-}
+} 

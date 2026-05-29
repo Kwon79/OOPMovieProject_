@@ -1,6 +1,6 @@
 ﻿namespace Payments
 {
-    public class CardPayment : Payment
+    public class CardPayment : Payment 
     {
         private string cardNumber;
 

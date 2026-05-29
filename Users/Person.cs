@@ -5,7 +5,7 @@
         private string name;
         private string email;
 
-        public string Name
+        public string Name 
         {
             get { return name; }
             set { name = value; }

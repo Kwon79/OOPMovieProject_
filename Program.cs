@@ -3,7 +3,7 @@ using Payments;
 
 class Program
 {
-    static void Main(string[] args)
+    static void Main(string[] args) 
     {
         Console.WriteLine("===== 회원 테스트 =====");
 

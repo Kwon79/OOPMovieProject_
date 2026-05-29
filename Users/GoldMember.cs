@@ -17,4 +17,4 @@
             return $"[골드회원] {Name} | ID: {MemberId} | 포 인트: {Point}점 | 할인율: 15%";
         }
     }
-}
+} 

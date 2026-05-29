@@ -8,7 +8,7 @@
         {
             get { return usedPoint; }
         }
-
+         
         public PointPayment(int amount, int usedPoint)
             : base(amount)
         {

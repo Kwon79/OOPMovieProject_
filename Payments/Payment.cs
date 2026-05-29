@@ -38,5 +38,5 @@
         {
             Console.WriteLine($"결제금액: {Amount}원 | 상태: {Status} | 시간: {PaidAt}");
         }
-    }
+    } 
 }

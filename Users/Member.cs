@@ -20,7 +20,7 @@
         {
             this.memberId = memberId;
             this.point = 0;
-        }
+        } 
 
         public override string GetInfo()
         {
